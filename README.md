@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Robin MONTES</h1>
 
-- 🔭 I'm currently in my 3rd year of a MIAGE Bachelor's degree (Computer science methods applied to business management).
-- 🤔 I am currently looking for an internship, ideally as an **Assistant Project Manager**.
+- 🔭 I am currently in my 3rd year of a MIAGE Bachelor's degree (Computer science methods applied to business management).
+- 🤔 I am looking for an internship, ideally as an **Assistant Project Manager**.
 
 <h3 align="left">Recent Projects</h3>
-   * Full-Stack Development [Statisalle Web](https://github.com/Rob1MTS/StatiSalle_SAE-S3_WEB) : Creation of a website (HTML/CSS/PHP) with SQL database management.
-   * Software Development [Statisalle Java](https://github.com/V5lMG/StatiSalle_SAE-S3) : Development of a *Statisalle* desktop application using Java with JavaFX.
-   * Agile Project Management [Github Project Statisalle Web](https://github.com/users/Rob1MTS/projects/1) : I took on the roles of SCRUM Master and Product Owner (PO) in university projects.
+
+- Full-Stack Development [Statisalle Web](https://github.com/Rob1MTS/StatiSalle_SAE-S3_WEB) : Creation of a website (HTML/CSS/PHP) with SQL database management.
+- Software Development [Statisalle Java](https://github.com/V5lMG/StatiSalle_SAE-S3) : Development of a *Statisalle* desktop application using Java with JavaFX.
+- Agile Project Management [Github Project Statisalle Web](https://github.com/users/Rob1MTS/projects/1) : I took on the roles of SCRUM Master and Product Owner (PO) in university projects.
+
+<h3 align="left">Contacts and Informations</h3>
 
 - 📫 How to reach me: **montes.robin.pro@gmail.com**.
 - 📄 About my previous experiences [check my linkedin](https://www.linkedin.com/in/robin-montes-1ab862326/)
