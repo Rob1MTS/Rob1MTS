@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin MONTES</h1>
 
-- <h4 align="left">🔭 I am currently in my 3rd year of a MIAGE Bachelor's degree (Computer science methods applied to business management).</h4>
-- <h4 align="left">🤔 I am looking for an internship, ideally as an Assistant Project Manager.</h4>
-
 <h3 align="left">Recent Projects:</h3>
 
 - Full-Stack Development [Statisalle Web](https://github.com/Rob1MTS/StatiSalle_SAE-S3_WEB) : Creation of a website (HTML/CSS/PHP) with SQL database management.
